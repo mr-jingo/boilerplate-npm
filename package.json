@@ -4,6 +4,7 @@
 	"description": "This is my first project",
 	"keywords": ["beginner", "freecodecamp", "JSON"],
 	"license": "BSD",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
